@@ -6,9 +6,8 @@
     <div class="container">
         <div class="st-hero-text">
             <div class="st-author"><img src="assets/img/section/hero-img.jpg" alt=""></div>
-            <h1>Hi, I am <span>Jhon Doe</span></h1>
-            <p>I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website
-                more & more interactive with web animations.</p>
+            <h1>Hi, I am <span>Sayed Mahmud</span></h1>
+            <p>I am Laravel-focused Backend Developer skilled in crafting scalable solutions. Proficient in frontend basics and WordPress. Collaborative team player delivering robust code and committed to continuous learning for top-notch backend development.</p>
             <div class="st-hero-social-links">
                 <a href="#" class="st-social-btn">
                     <i class="fab fa-facebook-f"></i>

@@ -26,11 +26,7 @@
                                 <h2 class="st-text-block-title">Hi There! I'm Edward Davis</h2>
                                 <h4 class="st-text-block-subtitle">Visual Designer</h4>
                                 <div class="st-text-block-text">
-                                    <p>I am a Visual Designer with a strong focus on digital branding. Visul design seeks to
-                                        attract,
-                                        inspire, create desires and motivate people to respond to messages, with a view to
-                                        making a
-                                        favorable impact.</p>
+                                    <p>I am a Back-end Developer with a focus on Laravel expertise, adept at crafting efficient and scalable solutions. Possesses foundational knowledge in frontend technologies and a working understanding of WordPress. Proven ability to deliver robust code and collaborate effectively within teams. Passionate about continuous learning and committed to delivering high-quality results in backend development.</p>
                                 </div>
                                 <ul class="st-text-block-details st-mp0">
                                     <li><span>Birthday</span> : <span>May 07, 1990</span></li>
