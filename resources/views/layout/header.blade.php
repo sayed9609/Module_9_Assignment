@@ -25,7 +25,7 @@
                                     </g>
                                 </g>
                             </svg>
-                            <div class="sp-phone-no">+1 971 234 1508</div>
+                            <div class="sp-phone-no">+88 01328 909609</div>
                         </div>
                     </div>
                 </div>
