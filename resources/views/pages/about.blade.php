@@ -23,17 +23,17 @@
                     <div class="st-vertical-middle">
                         <div class="st-vertical-middle-in">
                             <div class="st-text-block st-style1">
-                                <h2 class="st-text-block-title">Hi There! I'm Edward Davis</h2>
-                                <h4 class="st-text-block-subtitle">Visual Designer</h4>
+                                <h2 class="st-text-block-title">Hi There! I'm Sayed Mahmud</h2>
+                                <h4 class="st-text-block-subtitle">Back-end Developer</h4>
                                 <div class="st-text-block-text">
                                     <p>I am a Back-end Developer with a focus on Laravel expertise, adept at crafting efficient and scalable solutions. Possesses foundational knowledge in frontend technologies and a working understanding of WordPress. Proven ability to deliver robust code and collaborate effectively within teams. Passionate about continuous learning and committed to delivering high-quality results in backend development.</p>
                                 </div>
                                 <ul class="st-text-block-details st-mp0">
-                                    <li><span>Birthday</span> : <span>May 07, 1990</span></li>
-                                    <li><span>Phone</span> : <span>+1 876-369-9009</span></li>
-                                    <li><span>Email</span> : <span>devis@example.com</span></li>
-                                    <li><span>From</span> : <span>2661 Hich meadow lane bear creek</span></li>
-                                    <li><span>Language</span> : <span>English, Germanic</span></li>
+                                    <li><span>Birthday</span> : <span>Oct 15, 2004</span></li>
+                                    <li><span>Phone</span> : <span>(+88) 01328-909609</span></li>
+                                    <li><span>Email</span> : <span>sayedmahmud9609@gmail.com</span></li>
+                                    <li><span>From</span> : <span>Mujgunni R/A, Boyra, Khulna, Bangladesh </span></li>
+                                    <li><span>Language</span> : <span>English, Bangla</span></li>
                                     <li><span>Freelance</span> : <span>Available</span></li>
                                 </ul>
                                 <div class="st-text-block-btn">
